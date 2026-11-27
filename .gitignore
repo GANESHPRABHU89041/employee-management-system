@@ -1,0 +1,9 @@
+# Temporary files
+*.log
+*.tmp
+
+# Environment files
+.env
+
+# Editor files
+.vscode/
